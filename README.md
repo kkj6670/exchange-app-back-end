@@ -1,4 +1,4 @@
-# Toy Project - 거래소 메인화면
+# Toy Project - 가상화폐 거래소 메인화면
 
 ## 기술스택
 Front-End: React, Typescript, styled-component  
